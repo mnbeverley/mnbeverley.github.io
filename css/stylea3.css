@@ -1,0 +1,62 @@
+h4 {font-family: snellroundhand ; color: lightblue ; font-size: 40px}
+p {color: black ; font-family: arial}
+.navbar {background: #89d4c3 ;}
+html {
+  background-color: #f5f7f9;
+}
+img { 
+   border:3px solid lightblue;
+}
+.description {background-image: url(https://i.pinimg.com/originals/a9/5a/1d/a95a1d50d80e3082617c3b2833aea054.jpg);}
+h5 {color: white ; font-family: arial }
+.resize {
+  max-width:20%;
+  max-height:20%;
+}
+h1 {font-size: 60px}
+h2 {font-size: 40px}
+
+html {
+  background-color: #f5f7f9;
+}
+
+body {
+  background: none;
+  color: #69707a;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+strong {
+  color: #222324;
+}
+
+
+.btn {
+  font-weight: 300;
+}
+
+.btn-primary {
+  background: #89d4c3;
+  border-color: #89d4c3;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+  background: #89d4c3;
+  border-color: #89d4c3;
+}
+
+.card {
+  border-color: #ccc;
+}
+
+
+
+/* Additional stuff for index.html page */
+.jumbotron {
+  background-image: url("https://wallimpex.com/data/out/192/tiffany-blue-wallpapers-5787039.jpg");
+  background-size: cover;
+  color: white;
+}
